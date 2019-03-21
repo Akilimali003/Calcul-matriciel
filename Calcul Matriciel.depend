@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521893453 source:e:\calcul matriciel\main.c
+	<stdio.h>
+	<stdlib.h>
+
